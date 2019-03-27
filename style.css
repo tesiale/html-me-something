@@ -1,0 +1,72 @@
+body{
+    background-color: white;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+header {
+    background-image: url("https://i.imgur.com/j3Kv4nd.jpg");
+    background-size: cover;
+    background-position: center center;
+    width: 100%;
+    margin: 0 auto;
+    opacity: 0.8;
+}
+
+header h1 {
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 3em;
+    letter-spacing: 0.3em;
+    border-top: 3px solid gray;
+    border-bottom: 3px solid gray;
+    font-family: 'Rakkas', cursive;
+}
+
+main{
+    padding: 0 70px;
+    width: 60%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+h2{
+    letter-spacing: 0.2em;
+    font-size: 1em;    
+}
+
+#title{
+    font-size: 24px;
+    font-style: italic;
+    letter-spacing: 0.1em;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+    font-family: Georgia, serif;
+    padding: 5px 0;
+
+}
+
+p{
+    padding: 10px 50px;
+}
+
+figure {
+    margin: 0;
+	padding: 0;
+	text-align: center;
+}
+figcaption {
+    font-style: italic;
+    text-transform: capitalize;
+    letter-spacing: 0.1em;
+    font-size: 0.8em;
+}
+.end{
+    font-weight: bold;
+    letter-spacing: 0.2em;
+}
+footer{
+    text-align: center;
+    color: gray;
+}
